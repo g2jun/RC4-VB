@@ -1,2 +1,2 @@
-# RC4-VBS
-A simple encrypt/decrypt VBScript using RC4
+# RC4-VB
+A simple encrypt/decrypt VB script using RC4
