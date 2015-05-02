@@ -5,9 +5,9 @@ This is a simple implementation of RC4 cipher referring to Wikipedia: http://en.
 
 The keys and plaintext are ASCII, the keystream and ciphertext are in hexadecimal.
 
-Plain.txt : plaintext
-Hex.txt : ciphertext
-Key.txt : keys
+Plain.txt : plaintext <br />
+Hex.txt : ciphertext <br />
+Key.txt : keys <br />
 KeyStream.txt : keystream
 
 When running this program, enter 1 to encrypt (convert plaintext to ciphertext), 2 to decrypt (convert ciphertext to plaintext).
