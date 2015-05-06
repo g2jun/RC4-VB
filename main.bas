@@ -128,10 +128,10 @@ Sub main()
     
     Dim n As Integer
     
-    strFName4Plain = "E:\VBSamples\RC4\Plain.txt"
-    strFName4Key = "E:\VBSamples\RC4\Key.txt"
-    strFName4Hex = "E:\VBSamples\RC4\Hex.txt"
-    strFName4KeyStream = "E:\VBSamples\RC4\KeyStream.txt"
+    strFName4Plain = "Plain.txt"
+    strFName4Key = "Key.txt"
+    strFName4Hex = "Hex.txt"
+    strFName4KeyStream = "KeyStream.txt"
     
     Text2BytArray strFName:=strFName4Key, bytArray:=bytKeyArray()
     
